@@ -1,5 +1,6 @@
-#Cloud-Pentest-ASM-Tools
+# Cloud-Pentest-ASM-Tools
 
+> Cloud ile ilgili pentest ve asm araçlarını sizler için toparlayarak Türkçe kaynak haline getirdim.
 
 
 | Araçlar  | Açıklama |
