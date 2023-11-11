@@ -1,4 +1,4 @@
-# ASM-Cloud-Tools
+#Cloud-Pentest-ASM-Tools
 
 
 
@@ -33,14 +33,12 @@
 | [DumpsterDiver](https://github.com/securing/DumpsterDiver)  | DumpsterDiver, anahtarlar (örneğin, AWS Erişim Anahtarı, Azure Share Key veya SSH anahtarları) veya parolalar gibi sabit kodlanmış sırları aramak için büyük hacimli verileri analiz edebilen bir araçtır.   |
 | [Lambda Proxy ](https://github.com/puresec/lambda-proxy) | AWS Lambda ve SQLMAP kullanarak Sql Injection test etmemizi sağlar.  |
 | [Barq](https://github.com/Voulnet/barq)  | EC2 makinelerine SSH bağlantımız olmadan saldırmamızı sağlar.  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [Cloud Brute](https://github.com/0xsha/cloudbrute)  | En iyi bulut sağlayıcılarında (Amazon, Google, Microsoft, DigitalOcean, Alibaba, Vultr, Linode) bir şirketin (hedef) altyapısını, dosyalarını ve uygulamalarını bulmaya yönelik bir araç.  |
+| [Whispers](https://github.com/Skyscanner/whispers)  | Whispers, sabit kodlanmış kimlik bilgilerini ve tehlikeli işlevleri bulmak amacıyla çeşitli yaygın veri formatlarını ayrıştırmak için tasarlanmış bir statik kod analiz aracıdır.   |
+| [Red Boto](https://github.com/ihamburglar/Redboto)  | AWS API'ye karşı test işlemlerini gerçekleştirmek için Python boto3 için Amazon SDK'yı kullanan bir komut dosyası koleksiyonudur.  |
+| [Cfn_Nag](https://github.com/stelligent/cfn_nag)  | CFn-nag aracı, CloudFormation şablonlarında güvenli olmayan altyapıyı gösterebilecek kalıpları arar.   |
+| [IAMFinder](https://github.com/prisma-cloud/IAMFinder)  | Hedef hesabın hangi izinlere sahip olduğunu gösterir.  |
+| [Content Cell](https://github.com/cr0hn/festin#what-is-festin)  | S3 Bucketları bulmamızı sağlayan bir araçtır.  |
+| [S3Insights](https://github.com/kurmiashish/S3Insights)  | S3 Bucketları analiz etmemizi sağlar.  |
+
 
