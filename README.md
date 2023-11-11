@@ -41,5 +41,5 @@
 | [IAMFinder](https://github.com/prisma-cloud/IAMFinder)  | Hedef hesabın hangi izinlere sahip olduğunu gösterir.  |
 | [Content Cell](https://github.com/cr0hn/festin#what-is-festin)  | S3 Bucketları bulmamızı sağlayan bir araçtır.  |
 | [S3Insights](https://github.com/kurmiashish/S3Insights)  | S3 Bucketları analiz etmemizi sağlar.  |
-
+| [AWS Pwn](https://github.com/kurmiashish/S3Insights](https://github.com/dagrz/aws_pwn)) | Sızma testi sırasında çeşitli aktiviteleri yapabileceğimiz bir araçtır.  |
 
