@@ -1,6 +1,6 @@
 # Cloud-Pentest-ASM-Tools
 
-> Cloud ile ilgili pentest ve asm araçlarını sizler için toparlayarak Türkçe kaynak haline getirdim.
+> Bulut ortamlarınız için sızma testi ve saldırı yüzeyi araçları kullanmak, güvenlik durumunuzu değerlendirmek ve güvenlik açıklarını tespit etmek için önemli bir yoldur. Bu araçları kullanarak, bulut ortamlarınızı daha güvenli hale getirebilirsiniz.
 
 
 | Araçlar  | Açıklama |
