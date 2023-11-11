@@ -13,26 +13,26 @@
 | [S3 Bucketeers](https://github.com/tomdev/teh_s3_bucketeers)  | Kendi bilgilerimizi veya hedefin bilgilerini girerek S3 bucketlar üzerinde pentest yapmamıza olanak sağlayan araçtır.  |
 | [Bucket Stream](https://github.com/eth0izzle/bucket-stream)  | S3 bucketlarını bulup, bu bucketlardaki ilginç hareketlerin log kayıtlarını getirir. İlginç hareketler, erişimler, değişiklikler, silme işlemleri gibi olağan dışı olayları içerir. |
 | [S3 Find](https://github.com/aaparmeggiani/s3find)  | Kullanıcını vermiş olduğu urle göre S3 bucket bulmayı sağlar.  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| [Slurp](https://github.com/random-robbie/slurp)  | Verdiğimiz keyword , domain vb. gibi keywordlere uygun S3 Bucket bulmamızı sağlar.  |
+| [AWS Bucket Dump ](https://github.com/jordanpotti/AWSBucketDump) | Kaba kuvvet saldırısı yöntemi ile S3 Bucket arar ve bu bucketların içerisinde hassas ve ilginç verileri tespit eder. |
+| [S3Scanner](https://github.com/sa7mon/S3Scanner#quick-start)  | Belirtilen veya sağlanan isimlendirilmiş S3 bucketlarını ve diğer cloud araçlarını bularak listeler ve bunlar hakkında ayrıntılı bilgiler sunar. |
+| [s3scan](https://github.com/bear/s3scan)  | S3 depolama alanı klasörlerinin ve bu klasörlere sahip kullanıcıların erişim haklarının bir dökümü oluşturur.  |
+| [s3Finder](https://github.com/magisterquis/s3finder)  | Bir kelime listesi kullanarak veya sertifika şeffaflık günlüklerinden alan adları için certstream ağını izleyerek arama yapabilir. Bir ad noktalar içeriyorsa, noktaların yerini tirelerin aldığı bir ad da denenecektir. |
+| [S3Scan](https://github.com/abhn/S3Scan)  | Verilen domain adına göre S3 bucketlarını bulur ve ardından bu bucketlara sahip kullanıcıların erişim haklarını göz önünde bulundurarak, okuma, yazma vb. izinlere göre bir liste oluşturur.  |
+| [inSp3ctor](https://github.com/brianwarehime/inSp3ctor)  | Belirtilen veya sağlanan isimlendirilmiş S3 bucketları tespit eder.  |
+| [AWS s3 Data Finder](https://github.com/Ucnt/aws-s3-data-finder)  | S3 bucketları kaba kuvvet yöntemi ile bularak bunların içerisindeki hassas verileri bulmamızı sağlar. |
+| [Lazy S3](https://github.com/nahamsec/lazys3)  | Kaba kuvvet saldırı mantığını kullanarak S3 Bucketları tespit etmeye yarar. |
+| [Bucket Scanner](https://github.com/securing/BucketScanner)  | S3 bucketları bulur ve buradaki izinler dosya türleri gibi yapıları da belirler.  |
+| [Aws-Extender-Cli ](https://github.com/VirtueSecurity/aws-extender-cli) | AWS Extender CLI, boto/boto3 SDK kitaplığını kullanarak S3 paketlerinin yanı sıra Google Depolama paketlerini ve Azure Depolama kapsayıcılarını yaygın yanlış yapılandırma sorunları açısından test etmeye yönelik bir komut satırı betiğidir.  |
+| [BucketCat](https://github.com/Atticuss/bucketcat)  | Sahibi tarafından gizlenmiş S3 bucketları hash yöntemi ile kullanarak bulmayı sağlar.  |
+| [BucketLoot ](https://github.com/redhuntlabs/BucketLoot) | Belirtilen veya sağlanan anahtara göre S3 bucket içerisindeki dosyaları bularak listeler veya döndürür.  |
+| [CloudFox](https://github.com/BishopFox/cloudfox)  | Vermiş olduğumuz key bilgilerini kullanarak birçok aracı test etmemizi sağlar.  |
+| [Cred Scanner ](https://github.com/disruptops/cred_scanner) | Dosyalar üzerinde AWS kimlik bilgilerini bulmamızı sağlar.  |
+| [CloudFrunt](https://github.com/MindPointGroup/cloudfrunt)  | Yanlış yapılandırılmış CloudFrount test etmemizi sağlar.  |
+| [CloudJack](https://github.com/prevade/cloudjack)  | CloudJack, ayrılmış Route53 ve CloudFront yapılandırmalarının bir sonucu olarak AWS hesaplarını alt etki alanı ele geçirme güvenlik açıklarına karşı değerlendirir. |
+| [DumpsterDiver](https://github.com/securing/DumpsterDiver)  | DumpsterDiver, anahtarlar (örneğin, AWS Erişim Anahtarı, Azure Share Key veya SSH anahtarları) veya parolalar gibi sabit kodlanmış sırları aramak için büyük hacimli verileri analiz edebilen bir araçtır.   |
+| [Lambda Proxy ](https://github.com/puresec/lambda-proxy) | AWS Lambda ve SQLMAP kullanarak Sql Injection test etmemizi sağlar.  |
+| [Barq](https://github.com/Voulnet/barq)  | EC2 makinelerine SSH bağlantımız olmadan saldırmamızı sağlar.  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
